@@ -1,6 +1,7 @@
 # collection-wall-tudelft
 
-The **Collection Wall OpenStack 2.0** interactive experience of the TU Delft Library: open-access
+The **Collection Wall OpenStack 2.0** interactive experience of the TU Delft Library
+([Collection Wall at the TU Delft Library](https://www.tudelft.nl/en/library/visit/relax-and-get-inspired/collection-wall-at-the-tu-delft-library)): open-access
 publications and open publishing opened up in an inspiring, interactive way, with room for serendipity and
 less visible fields of knowledge. This repository holds what is specific to this installation: its profile,
 its connections (TU Delft Library, DOAB, OCLC research) and its presentation on the wall. The shared
